@@ -1,0 +1,18 @@
+REPL --- READ EVAL PRINT LOOP ---ctrl + c close a repli
+CLI ---
+
+GLOBAL VARIABLES -- NO WINDOW  !!!
+
+__dirname -- path directory
+__filename -- file name
+require -- function to use modules {just like the common import and export function}
+module -- get the current info about a module {file}
+process -- info about the environment where the program is being executed
+
+    IN-BUILT modules
+    --OS
+    --PATH
+    --FS
+    --HTTP
+
+
